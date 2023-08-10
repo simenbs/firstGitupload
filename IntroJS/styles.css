@@ -1,0 +1,24 @@
+div.color1 {
+    background-color: blanchedalmond;
+}
+
+div.color2 {
+    background-color: aquamarine;
+
+}
+
+div.card {
+    background-color: lightgray;
+    width: 500px;
+    margin: 10px;
+}
+
+div.header {
+    text-align: center;
+    font-size: 200%;
+    padding: 10px
+}
+.Overskrift2{
+    margin-left: -10px;
+    width: 480px;
+}
